@@ -27,4 +27,4 @@ method: get
 
 Datatbase - MongoDB
 collection : scrapedData
-field name : title, link, time
+field name : title, link, time and id
